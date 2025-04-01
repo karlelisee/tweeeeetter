@@ -1,0 +1,3 @@
+[submodule "monitoringblabla"]
+	path = monitoringblabla
+	url = https://github.com/karlelisee/monitoringblabla.git
